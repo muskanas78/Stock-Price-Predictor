@@ -21,6 +21,8 @@ A unified AI-powered platform that provides:
 
 AI-powered stock analysis platform with real-time data, technical indicators, ML price predictions, and intelligent chatbot assistant for comprehensive investment research.
 
+<img width="1870" height="887" alt="image" src="https://github.com/user-attachments/assets/c5fa5ee1-3258-4279-862b-16f2fa8c8930" />
+
 ## **Features**
 
 - **AI-Powered Chat Assistant** - Natural language stock analysis
@@ -31,6 +33,7 @@ AI-powered stock analysis platform with real-time data, technical indicators, ML
 - **Interactive Charts** - Candlestick and line visualizations
 - **Financial Ratios** - P/E, ROE, debt ratios, liquidity metrics
 - **News Integration** - Company news and congressional tracking
+
 
 ## **Installation**
 
@@ -91,10 +94,6 @@ Ask questions like:
 2. Create feature branch
 3. Make changes
 4. Submit pull request
-
-## **License**
-
-MIT License
 
 ## **Disclaimer**
 
