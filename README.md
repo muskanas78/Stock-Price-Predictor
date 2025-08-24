@@ -1,4 +1,4 @@
-# **Stock Analysis Platform**
+# **Stock Price Predictor**
 
 ## **Problem Statement**
 
